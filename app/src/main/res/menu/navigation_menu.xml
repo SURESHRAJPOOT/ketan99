@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"/>
+    <item
+        android:id="@+id/List_of_birds"
+        android:title="List of Birds"
+        android:icon="@drawable/baseline_menu_24"/>
+    <item
+        android:id="@+id/birds_by_species"
+        android:title="Birds By Species"
+        android:icon="@drawable/perching_birds"/>
+
+    <item
+        android:id="@+id/birds_by_indian_name"
+        android:title="Birds By Indian Names"/>
+
+    <item
+        android:id="@+id/explore"
+        android:title="Expolre"
+        android:icon="@drawable/baseline_travel_explore_24"/>
+    <item
+        android:id="@+id/location"
+        android:title="Location"
+        android:icon="@drawable/baseline_location_on_24"/>
+    <item
+        android:id="@+id/aboutus"
+        android:title="About Us"
+        android:icon="@drawable/baseline_perm_device_information_24"/>
+
+
+
+
+
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Indian Birds</string>
+    <string name="OpenDrawer">Open Navigation Bar</string>
+    <string name="CloseDrawer">Close Navigation Bar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="indian_birds">Indian Birds</string>
+    <string name="list_of_birds">List of Birds</string>
+    <string name="alexandrine_parakeet">Alexandrine parakeet</string>
+    <string name="location">Location</string>
+    <string name="explore">Explore</string>
+    <string name="todo">TODO</string>
+    <string name="Perching_Birds" />
+
+</resources>
